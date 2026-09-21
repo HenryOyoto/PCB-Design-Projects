@@ -129,30 +129,6 @@ System with M-Pesa Integration.
 
 ---
 
-### [Placeholder] Project 4 — Title (Tool used)
-
-One or two sentences describing the board, what it is for, and the main design decisions.
-
-**Design highlights**
-
-- EDA tool and version
-- Layer count and stack-up
-- Notable routing or layout decisions
-- Power considerations
-
-**Status**
-
-Designed, fabricated, tested — pick the one that applies.
-
-**Folder contents**
-
-- `schematic/`
-- `pcb/`
-- `gerbers/`
-- `images/`
-- `BOM.xlsx`
-- `README.md`
-
 ## How to view a design
 
 - Install the matching EDA tool for the project. KiCad is free and covers most of the
