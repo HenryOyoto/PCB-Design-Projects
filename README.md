@@ -1,8 +1,8 @@
 # PCB Design Projects
 
-A collection of PCB design work — schematics, layouts, 3D board renders, and the
+A collection of PCB design work: schematics, layouts, 3D board renders, and the
 supporting documentation that goes with them. These are boards I designed for my own
-projects, reviewed carefully, and — for the ones marked as fabricated — prepared,
+projects, reviewed carefully, and, for the ones marked as fabricated, prepared,
 ordered, and tested.
 
 ## What is in this repository
@@ -78,7 +78,7 @@ and logic.
 
 **Status**
 
-Fabricated and populated. Board is used in the working autonomous robot prototype.
+Fabricated and populated. The board is used in the working autonomous robot prototype.
 
 **Folder contents**
 
